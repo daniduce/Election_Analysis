@@ -12,9 +12,7 @@ The purpose of this election audit analysis was to help Tom and Seth find the el
 *  369,711 total votes were cast in the entire congressional election. 
 
 Election Results
--------------------------
-Total Votes: 369,711
--------------------------
+Total Votes: 369, 711
 
 ### Candidate Votes
 
@@ -24,17 +22,17 @@ Total Votes: 369,711
 
 The turn out to vote for the three candidates above were between three different counties, Arapahoe, Jefferson and Denver. 
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+1. Charles Casper Stockham: 23.0% (85,213)
+2. Diana DeGette: 73.8% (272,892)
+3. Raymon Anthony Doane: 3.1% (11,606)
 
 ### Who won the election? 
 
 Over looking the election results, it appears Diana DeGette won the over all election for all counties. She finished in first place with 73.8% and a total of 272,892 votes. 
 
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+1. Winner: Diana DeGette
+2. Winning Vote Count: 272,892
+3. Winning Percentage: 73.8%
 
 ## Election-Audit Summary
 
