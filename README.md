@@ -7,6 +7,8 @@ The purpose of this election audit analysis was to help Tom and Seth find the el
 
 ## Election-Audit Results:
 
+### Total Votes
+
 *  369,711 total votes were cast in the entire congressional election. 
 
 Election Results
@@ -14,39 +16,26 @@ Election Results
 Total Votes: 369,711
 -------------------------
 
-* 
+### Candidate Votes
 
+* Charles Casper Stockham received 23.0% of the total votes at 85,213.
+* Diana Degette received 73.8% of the total votes at 272,892.
+* Raymon Anthony Doane received 3.1% of the total votes at 11,606. 
 
-County Winner: Raymon Anthony Doane
-Winning Vote Count: 73.81224794501652
-Winning Percentage: 3.1%
+The turn out to vote for the three candidates above were between three different counties, Arapahoe, Jefferson and Denver. 
 
-
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
-
-County Votes:
-Charles Casper StockhamDiana DeGetteRaymon Anthony Doane-------------------------
-County Winner: Raymon Anthony Doane
-Winning Vote Count: 73.81224794501652
-Winning Percentage: 3.1%
--------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
--------------------------
+
+### Who won the election? 
+
+Over looking the election results, it appears Diana DeGette won the over all election for all counties. She finished in first place with 73.8% and a total of 272,892 votes. 
+
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
--------------------------
+
+## Election-Audit Summary
+
+In summary, Diane DeGette won the overall vote for all three counties. For future elections, this script can be modified in order to encompass more than three counties, such as an entire state election or even a presidential election. Another modification would be to break the script down not by candidate but by certain bills being passed and votes on said bills. 
